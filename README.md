@@ -17,21 +17,23 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/pistachionet/IOS101-Prework/assets/78292140/ae3e7985-334f-48b8-be90-ce16f9919bdd
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+
+  
+
+
 
 ## App Brainstorming (Step 4)
 
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Iplement a way to change the color of the text as well
+
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I was having difficulty figuring out how Xcode would work with git. There is no built-in terminal that I know of unlike vs code. So I had to use the source control tab and make a token on Git Hub. This took some digging but I learned a bunch of other features and niche functionalities along the way.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
