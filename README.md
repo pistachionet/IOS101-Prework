@@ -21,15 +21,29 @@ https://github.com/pistachionet/IOS101-Prework/assets/78292140/ae3e7985-334f-48b
 
 
 
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Iplement a way to change the color of the text as well
   
 
 
 
 ## App Brainstorming (Step 4)
 
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
+- Instagram
+   - Deleting Old Messages
+   - Changing the background color of the messages screen
+ 
+- Snapchat
+   - Havign the background of the snap logo change.
+   - Having to be able to add snap with a new background color.
+ 
+- Gmail
+   - The fact that I can view all inboxes at once
+   - The fact that I can schedule send messages
+ 
+  Concept: ChefAI is a recipe and meal planning app that uses artificial intelligence to simplify the cooking process for individuals and families. With a unique twist on recipe search functionality, the app is not only capable of suggesting recipes based on dietary preferences, ingredient availability, and time constraints but can also learn from user behavior over time to suggest meals that match their taste profiles.
+
 
 ## Notes
 
